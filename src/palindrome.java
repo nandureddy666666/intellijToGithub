@@ -1,7 +1,7 @@
 public class palindrome
 {
     public static void main(String[] args) {
-        int n=133;
+        int n=121;
         int reverse=0,remainder,original;
         original=n;
         while(n!=0) {
