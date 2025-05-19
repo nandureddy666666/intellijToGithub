@@ -17,7 +17,7 @@ public class factorial {
             for (i = 1; i <= n; i++) {
                 fact = fact * i;
             }
-            System.out.println(" the factoriaal of give numberr is");
+            System.out.println(" the factorial of give number is");
             System.out.println(fact);
         }
 
